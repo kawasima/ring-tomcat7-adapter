@@ -1,0 +1,17 @@
+/target
+/lib
+/classes
+/checkouts
+/out
+/repl
+/repo
+/workspace
+/dev-resources/app_scope.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+main.min.js
+.lein-*
+.repl-*
+.nrepl-*
